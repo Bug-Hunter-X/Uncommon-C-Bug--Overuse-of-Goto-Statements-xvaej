@@ -1,0 +1,1 @@
+int main() {int i = 1; for (; i <= 10; ++i) {printf("%d", i); if (i == 5) {break;} } printf("\n"); return 0;} 
